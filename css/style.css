@@ -429,7 +429,7 @@ header {
 }
 
 .intro-text {
-    font-size: var(--fs-h5);
+    font-size: var(--fs-h4);
     margin: 2em 1em;
     text-align: center;
 }
